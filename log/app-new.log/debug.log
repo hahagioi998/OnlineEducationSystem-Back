@@ -1,0 +1,233 @@
+2021-04-20 13:16:36 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 10124 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 13:16:36 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 13:16:36 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 13:16:50 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 14.674 seconds (JVM running for 16.561)
+2021-04-20 13:17:43 [http-nio-8080-exec-10] INFO  c.e.d.c.AttendanceController - getAttendanceReport() from AttendanceControllercalled
+2021-04-20 13:17:43 [http-nio-8080-exec-10] INFO  c.e.d.service.AttendanceServiceImpl - getAttendanceReport() from AttendanceServiceImplcalled
+2021-04-20 13:22:31 [http-nio-8080-exec-9] INFO  c.e.demo.controller.AdminController - loginAdmin()called
+2021-04-20 13:22:31 [http-nio-8080-exec-9] INFO  c.e.demo.service.AdminServiceImpl - loginAdmin()called
+2021-04-20 13:24:47 [http-nio-8080-exec-4] INFO  c.e.d.c.AttendanceController - getAttendanceReport() from AttendanceControllercalled
+2021-04-20 13:24:47 [http-nio-8080-exec-4] INFO  c.e.d.service.AttendanceServiceImpl - getAttendanceReport() from AttendanceServiceImplcalled
+2021-04-20 13:25:13 [http-nio-8080-exec-6] INFO  c.e.d.c.AttendanceController - getAttendanceReport() from AttendanceControllercalled
+2021-04-20 13:25:13 [http-nio-8080-exec-6] INFO  c.e.d.service.AttendanceServiceImpl - getAttendanceReport() from AttendanceServiceImplcalled
+2021-04-20 13:26:33 [http-nio-8080-exec-2] INFO  c.e.demo.controller.AdminController - loginAdmin()called
+2021-04-20 13:26:33 [http-nio-8080-exec-2] INFO  c.e.demo.service.AdminServiceImpl - loginAdmin()called
+2021-04-20 13:28:32 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 10124 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 13:28:32 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 13:28:32 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 13:28:36 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 4.678 seconds (JVM running for 722.752)
+2021-04-20 13:28:47 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 16112 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 13:28:47 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 13:28:47 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 13:29:08 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 21.614 seconds (JVM running for 23.667)
+2021-04-20 13:29:23 [http-nio-8080-exec-1] ERROR c.e.demo.controller.AdminController - loginAdmin()called
+2021-04-20 13:29:23 [http-nio-8080-exec-1] INFO  c.e.demo.service.AdminServiceImpl - loginAdmin()called
+2021-04-20 13:29:37 [http-nio-8080-exec-2] ERROR c.e.demo.controller.AdminController - loginAdmin()called
+2021-04-20 13:29:37 [http-nio-8080-exec-2] INFO  c.e.demo.service.AdminServiceImpl - loginAdmin()called
+2021-04-20 13:30:19 [http-nio-8080-exec-3] ERROR c.e.demo.controller.AdminController - loginAdmin()called
+2021-04-20 13:30:19 [http-nio-8080-exec-3] INFO  c.e.demo.service.AdminServiceImpl - loginAdmin()called
+2021-04-20 13:31:38 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 16112 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 13:31:38 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 13:31:38 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 13:31:42 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 4.586 seconds (JVM running for 177.995)
+2021-04-20 13:38:38 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 16112 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 13:38:38 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 13:38:38 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 13:38:42 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 3.471 seconds (JVM running for 597.514)
+2021-04-20 13:41:31 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 16112 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 13:41:31 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 13:41:31 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 13:41:34 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 3.068 seconds (JVM running for 769.49)
+2021-04-20 13:51:29 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 16112 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 13:51:29 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 13:51:29 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 13:51:32 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 3.269 seconds (JVM running for 1367.927)
+2021-04-20 15:13:08 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 16112 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 15:13:08 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 15:13:08 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 15:13:12 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 3.695 seconds (JVM running for 6267.556)
+2021-04-20 15:13:23 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 15.0.1 on LIN20004663 with PID 18392 (C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system\target\classes started by lasanjay in C:\Users\LASANJAY\Downloads\FinalIntegratedBackend-online-education-system)
+2021-04-20 15:13:23 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-20 15:13:23 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-20 15:13:32 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 9.485 seconds (JVM running for 11.086)
+2021-04-20 15:15:38 [http-nio-8080-exec-2] INFO  c.e.demo.controller.AdminController - loginAdmin()called
+2021-04-20 15:15:38 [http-nio-8080-exec-2] INFO  c.e.demo.service.AdminServiceImpl - loginAdmin()called
+2021-04-20 15:15:44 [http-nio-8080-exec-4] INFO  c.e.demo.service.TeacherServiceImpl - getAllTeachers() from TeacherServiceImpl classcalled
+2021-04-20 15:16:19 [http-nio-8080-exec-7] INFO  c.e.demo.service.TeacherServiceImpl - addTeacher() from TeacherServiceImpl classcalled
+2021-04-20 15:18:20 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getAllTeachers() from TeacherServiceImpl classcalled
+2021-04-20 15:18:44 [http-nio-8080-exec-3] INFO  c.e.demo.service.TeacherServiceImpl - getAllTeachers() from TeacherServiceImpl classcalled
+2021-04-20 15:19:26 [http-nio-8080-exec-3] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:19:30 [http-nio-8080-exec-6] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:19:30 [http-nio-8080-exec-7] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:19:47 [http-nio-8080-exec-1] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:19:47 [http-nio-8080-exec-3] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:19:50 [http-nio-8080-exec-6] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:20:45 [http-nio-8080-exec-9] INFO  c.e.demo.service.StudentServiceImpl - registerStudent() from StudentServiceImpl classcalled
+2021-04-20 15:21:06 [http-nio-8080-exec-2] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:06 [http-nio-8080-exec-4] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:14 [http-nio-8080-exec-5] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:14 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:35 [http-nio-8080-exec-2] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:35 [http-nio-8080-exec-2] INFO  c.e.demo.service.TeacherServiceImpl - updateTeacher() from TeacherServiceImpl classcalled
+2021-04-20 15:21:37 [http-nio-8080-exec-3] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:37 [http-nio-8080-exec-6] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:44 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:21:47 [http-nio-8080-exec-2] INFO  c.e.d.controller.timeTableController - getSchedule() inside TimeTableControllercalled
+2021-04-20 15:21:47 [http-nio-8080-exec-2] INFO  c.e.d.service.TimeTableServiceImpl - getSchedule() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:22:01 [http-nio-8080-exec-5] INFO  c.e.d.controller.timeTableController - saveMoreProduct() inside TimeTableControllercalled
+2021-04-20 15:22:01 [http-nio-8080-exec-5] INFO  c.e.d.service.TimeTableServiceImpl - saveMoreProduct() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:22:03 [http-nio-8080-exec-8] INFO  c.e.d.controller.timeTableController - getSchedule() inside TimeTableControllercalled
+2021-04-20 15:22:03 [http-nio-8080-exec-8] INFO  c.e.d.service.TimeTableServiceImpl - getSchedule() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:22:09 [http-nio-8080-exec-10] INFO  c.e.d.controller.timeTableController - getSchedule() inside TimeTableControllercalled
+2021-04-20 15:22:09 [http-nio-8080-exec-10] INFO  c.e.d.service.TimeTableServiceImpl - getSchedule() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:22:49 [http-nio-8080-exec-9] INFO  c.e.demo.service.TeacherServiceImpl - getAllTeachers() from TeacherServiceImpl classcalled
+2021-04-20 15:23:13 [http-nio-8080-exec-4] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:23:18 [http-nio-8080-exec-7] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:23:18 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:24:10 [http-nio-8080-exec-2] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:25:51 [http-nio-8080-exec-6] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:26:35 [http-nio-8080-exec-7] INFO  c.e.demo.service.StudentServiceImpl - registerStudent() from StudentServiceImpl classcalled
+2021-04-20 15:26:37 [http-nio-8080-exec-9] INFO  c.e.demo.service.StudentServiceImpl - registerStudent() from StudentServiceImpl classcalled
+2021-04-20 15:27:19 [http-nio-8080-exec-10] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:27:23 [http-nio-8080-exec-3] INFO  c.e.d.controller.timeTableController - getSchedule() inside TimeTableControllercalled
+2021-04-20 15:27:23 [http-nio-8080-exec-3] INFO  c.e.d.service.TimeTableServiceImpl - getSchedule() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:27:42 [http-nio-8080-exec-9] INFO  c.e.d.controller.timeTableController - saveMoreProduct() inside TimeTableControllercalled
+2021-04-20 15:27:42 [http-nio-8080-exec-9] INFO  c.e.d.service.TimeTableServiceImpl - saveMoreProduct() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:27:44 [http-nio-8080-exec-10] INFO  c.e.d.controller.timeTableController - getSchedule() inside TimeTableControllercalled
+2021-04-20 15:27:44 [http-nio-8080-exec-10] INFO  c.e.d.service.TimeTableServiceImpl - getSchedule() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:27:50 [http-nio-8080-exec-2] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:28:42 [http-nio-8080-exec-9] INFO  c.e.d.controller.TeacherController - saveTest() inside TeacherControllercalled
+2021-04-20 15:28:42 [http-nio-8080-exec-9] INFO  c.e.d.service.OnlineTestserviceImpl - saveTest() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:28:43 [http-nio-8080-exec-7] INFO  c.e.d.controller.TeacherController -  getTest() inside TeacherControllercalled
+2021-04-20 15:28:43 [http-nio-8080-exec-7] INFO  c.e.d.service.OnlineTestserviceImpl - getTest() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:28:43 [http-nio-8080-exec-10] INFO  c.e.d.service.OnlineTestserviceImpl - deletequestion() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:28:45 [http-nio-8080-exec-2] INFO  c.e.d.controller.TeacherController -  getall() inside TeacherControllercalled
+2021-04-20 15:28:45 [http-nio-8080-exec-2] INFO  c.e.d.service.OnlineTestserviceImpl - getall() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:28:45 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:28:51 [http-nio-8080-exec-1] INFO  c.e.d.controller.TeacherController -  getTest() inside TeacherControllercalled
+2021-04-20 15:28:51 [http-nio-8080-exec-1] INFO  c.e.d.service.OnlineTestserviceImpl - getTest() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:28:51 [http-nio-8080-exec-6] INFO  c.e.d.service.OnlineTestserviceImpl - deletequestion() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:28:53 [http-nio-8080-exec-3] INFO  c.e.d.controller.TeacherController -  getquestion() inside TeacherControllercalled
+2021-04-20 15:28:53 [http-nio-8080-exec-3] INFO  c.e.d.service.OnlineTestserviceImpl - getquestion() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:29:10 [http-nio-8080-exec-9] INFO  c.e.d.controller.TeacherController -  updatetest() inside TeacherControllercalled
+2021-04-20 15:29:10 [http-nio-8080-exec-9] INFO  c.e.d.service.OnlineTestserviceImpl - updatetest() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:29:11 [http-nio-8080-exec-7] INFO  c.e.d.controller.TeacherController -  getTest() inside TeacherControllercalled
+2021-04-20 15:29:11 [http-nio-8080-exec-10] INFO  c.e.d.service.OnlineTestserviceImpl - deletequestion() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:29:11 [http-nio-8080-exec-7] INFO  c.e.d.service.OnlineTestserviceImpl - getTest() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:29:14 [http-nio-8080-exec-2] INFO  c.e.d.controller.TeacherController -  getall() inside TeacherControllercalled
+2021-04-20 15:29:14 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:29:14 [http-nio-8080-exec-2] INFO  c.e.d.service.OnlineTestserviceImpl - getall() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:29:26 [http-nio-8080-exec-1] INFO  c.e.d.controller.timeTableController - getLectures() inside TimeTableControllercalled
+2021-04-20 15:29:26 [http-nio-8080-exec-1] INFO  c.e.d.service.TimeTableServiceImpl - getLectures() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:29:26 [http-nio-8080-exec-3] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:29:29 [http-nio-8080-exec-7] INFO  c.e.d.c.AttendanceController - getAttendance() from AttendanceControllercalled
+2021-04-20 15:29:29 [http-nio-8080-exec-7] INFO  c.e.d.service.AttendanceServiceImpl - getAttendance() from AttendanceServiceImplcalled
+2021-04-20 15:29:44 [http-nio-8080-exec-2] INFO  c.e.d.c.AttendanceController - saveMoreProduct() from AttendanceControllercalled
+2021-04-20 15:29:44 [http-nio-8080-exec-2] INFO  c.e.d.service.AttendanceServiceImpl - saveMoreProduct() from AttendanceServiceImplcalled
+2021-04-20 15:29:49 [http-nio-8080-exec-4] INFO  c.e.d.c.AttendanceController - getAttendance() from AttendanceControllercalled
+2021-04-20 15:29:49 [http-nio-8080-exec-4] INFO  c.e.d.service.AttendanceServiceImpl - getAttendance() from AttendanceServiceImplcalled
+2021-04-20 15:29:50 [http-nio-8080-exec-3] INFO  c.e.d.c.AttendanceController - getAttendance() from AttendanceControllercalled
+2021-04-20 15:29:50 [http-nio-8080-exec-3] INFO  c.e.d.service.AttendanceServiceImpl - getAttendance() from AttendanceServiceImplcalled
+2021-04-20 15:30:05 [http-nio-8080-exec-6] INFO  c.e.d.c.AttendanceController - changeAttendance() from AttendanceControllercalled
+2021-04-20 15:30:05 [http-nio-8080-exec-6] INFO  c.e.d.service.AttendanceServiceImpl - changeAttendance() from AttendanceServiceImplcalled
+2021-04-20 15:30:06 [http-nio-8080-exec-1] INFO  c.e.d.c.AttendanceController - getAttendance() from AttendanceControllercalled
+2021-04-20 15:30:06 [http-nio-8080-exec-1] INFO  c.e.d.service.AttendanceServiceImpl - getAttendance() from AttendanceServiceImplcalled
+2021-04-20 15:30:08 [http-nio-8080-exec-9] INFO  c.e.d.c.AttendanceController - getAttendance() from AttendanceControllercalled
+2021-04-20 15:30:08 [http-nio-8080-exec-9] INFO  c.e.d.service.AttendanceServiceImpl - getAttendance() from AttendanceServiceImplcalled
+2021-04-20 15:30:13 [http-nio-8080-exec-7] INFO  c.e.d.controller.timeTableController - getLectures() inside TimeTableControllercalled
+2021-04-20 15:30:13 [http-nio-8080-exec-7] INFO  c.e.d.service.TimeTableServiceImpl - getLectures() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:30:13 [http-nio-8080-exec-2] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:30:21 [http-nio-8080-exec-3] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:30:30 [http-nio-8080-exec-7] INFO  c.e.d.c.AttendanceController - getAttendanceReport() from AttendanceControllercalled
+2021-04-20 15:30:30 [http-nio-8080-exec-7] INFO  c.e.d.service.AttendanceServiceImpl - getAttendanceReport() from AttendanceServiceImplcalled
+2021-04-20 15:30:34 [http-nio-8080-exec-10] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:30:42 [http-nio-8080-exec-6] INFO  c.e.d.c.AttendanceController - getAttendanceReport() from AttendanceControllercalled
+2021-04-20 15:30:42 [http-nio-8080-exec-6] INFO  c.e.d.service.AttendanceServiceImpl - getAttendanceReport() from AttendanceServiceImplcalled
+2021-04-20 15:30:46 [http-nio-8080-exec-9] INFO  c.e.d.controller.TeacherController -  sendMailReport() inside TeacherControllercalled
+2021-04-20 15:31:17 [http-nio-8080-exec-10] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:31:21 [http-nio-8080-exec-3] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:31:50 [http-nio-8080-exec-9] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:31:55 [http-nio-8080-exec-4] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:33:03 [http-nio-8080-exec-9] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:03 [http-nio-8080-exec-9] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:03 [http-nio-8080-exec-10] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:03 [http-nio-8080-exec-10] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:34 [http-nio-8080-exec-7] INFO  c.e.d.controller.timeTableController - getSchedule() inside TimeTableControllercalled
+2021-04-20 15:33:34 [http-nio-8080-exec-2] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:34 [http-nio-8080-exec-7] INFO  c.e.d.service.TimeTableServiceImpl - getSchedule() methode in TimeTableServiceImpl classcalled
+2021-04-20 15:33:34 [http-nio-8080-exec-2] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:40 [http-nio-8080-exec-4] INFO  c.e.demo.controller.AdminController - getScheduledTest() inside StudentController classcalled
+2021-04-20 15:33:40 [http-nio-8080-exec-4] INFO  c.e.demo.service.StudentServiceImpl - getTestList() from StudentServiceImpl classcalled
+2021-04-20 15:33:40 [http-nio-8080-exec-3] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:40 [http-nio-8080-exec-3] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:43 [http-nio-8080-exec-1] INFO  c.e.demo.controller.AdminController - getOnlineTest() inside StudentController classcalled
+2021-04-20 15:33:43 [http-nio-8080-exec-8] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:43 [http-nio-8080-exec-1] INFO  c.e.demo.service.StudentServiceImpl - findOnlineTest() from StudentServiceImpl classcalled
+2021-04-20 15:33:43 [http-nio-8080-exec-8] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:52 [http-nio-8080-exec-5] INFO  c.e.demo.controller.AdminController - attemptTest() inside StudentController classcalled
+2021-04-20 15:33:52 [http-nio-8080-exec-5] INFO  c.e.demo.service.StudentServiceImpl - addAttemptedTest() from StudentServiceImpl classcalled
+2021-04-20 15:33:54 [http-nio-8080-exec-9] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:54 [http-nio-8080-exec-9] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:54 [http-nio-8080-exec-10] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:54 [http-nio-8080-exec-10] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:58 [http-nio-8080-exec-2] INFO  c.e.demo.controller.AdminController - getTestHistory() inside StudentController classcalled
+2021-04-20 15:33:58 [http-nio-8080-exec-7] INFO  c.e.demo.controller.AdminController - StudentRegistration() inside StudentController classcalled
+2021-04-20 15:33:58 [http-nio-8080-exec-7] INFO  c.e.demo.service.StudentServiceImpl - getDetails() from StudentServiceImpl classcalled
+2021-04-20 15:33:58 [http-nio-8080-exec-2] INFO  c.e.demo.service.StudentServiceImpl - getHistory() from StudentServiceImpl classcalled
+2021-04-20 15:34:07 [http-nio-8080-exec-4] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:34:12 [http-nio-8080-exec-5] INFO  c.e.demo.controller.AdminController - getAllTestReport() inside StudentController classcalled
+2021-04-20 15:34:12 [http-nio-8080-exec-5] INFO  c.e.d.service.OnlineTestserviceImpl - getAllTestReport() inside OnlineTestServiceImpl classcalled
+2021-04-20 15:34:15 [http-nio-8080-exec-10] INFO  c.e.d.controller.TeacherController -  sendMailReport() inside TeacherControllercalled
+2021-04-20 15:37:06 [http-nio-8080-exec-9] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:37:11 [http-nio-8080-exec-6] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:37:11 [http-nio-8080-exec-7] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:37:25 [http-nio-8080-exec-4] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:37:29 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:37:29 [http-nio-8080-exec-1] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:37:38 [http-nio-8080-exec-10] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:37:45 [http-nio-8080-exec-8] INFO  c.e.d.c.AttendanceController - getAttendanceReport() from AttendanceControllercalled
+2021-04-20 15:37:45 [http-nio-8080-exec-8] INFO  c.e.d.service.AttendanceServiceImpl - getAttendanceReport() from AttendanceServiceImplcalled
+2021-04-20 15:37:50 [http-nio-8080-exec-1] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:38:55 [http-nio-8080-exec-8] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-20 15:39:00 [http-nio-8080-exec-10] INFO  c.e.d.c.AttendanceController - getAttendanceReport() from AttendanceControllercalled
+2021-04-20 15:39:00 [http-nio-8080-exec-10] INFO  c.e.d.service.AttendanceServiceImpl - getAttendanceReport() from AttendanceServiceImplcalled
+2021-04-21 10:32:51 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 5228 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 10:32:51 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 10:32:51 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 10:41:42 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 21560 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 10:41:42 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 10:41:42 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 10:41:52 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 10.599 seconds (JVM running for 12.244)
+2021-04-21 10:45:10 [http-nio-9090-exec-10] INFO  c.e.demo.service.TeacherServiceImpl - addTeacher() from TeacherServiceImpl classcalled
+2021-04-21 10:45:55 [http-nio-9090-exec-1] INFO  c.e.demo.service.TeacherServiceImpl - addTeacher() from TeacherServiceImpl classcalled
+2021-04-21 10:46:38 [http-nio-9090-exec-2] INFO  c.e.demo.service.TeacherServiceImpl - addTeacher() from TeacherServiceImpl classcalled
+2021-04-21 10:51:47 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 21560 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 10:51:47 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 10:51:47 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 10:51:50 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 3.108 seconds (JVM running for 610.704)
+2021-04-21 10:57:21 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 21560 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 10:57:21 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 10:57:21 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 10:57:23 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 1.992 seconds (JVM running for 943.011)
+2021-04-21 10:57:33 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 21560 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 10:57:33 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 10:57:33 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 10:57:35 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 2.403 seconds (JVM running for 955.672)
+2021-04-21 10:59:39 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 21560 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 10:59:39 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 10:59:39 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 10:59:41 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 1.72 seconds (JVM running for 1081.1)
+2021-04-21 11:00:33 [main] INFO  c.e.d.repository.TestOnlineTestRepo - Starting TestOnlineTestRepo using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 16304 (started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 11:00:33 [main] DEBUG c.e.d.repository.TestOnlineTestRepo - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 11:00:33 [main] INFO  c.e.d.repository.TestOnlineTestRepo - No active profile set, falling back to default profiles: default
+2021-04-21 11:00:43 [main] INFO  c.e.d.repository.TestOnlineTestRepo - Started TestOnlineTestRepo in 10.182 seconds (JVM running for 12.598)
+2021-04-21 11:09:48 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 21560 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 11:09:48 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 11:09:48 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 11:09:49 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 1.768 seconds (JVM running for 1689.857)
+2021-04-21 11:11:27 [http-nio-9090-exec-1] INFO  c.e.demo.service.TeacherServiceImpl - getTeacherById() from TeacherServiceImpl classcalled
+2021-04-21 11:11:27 [http-nio-9090-exec-1] INFO  c.e.demo.service.TeacherServiceImpl - updateTeacher() from TeacherServiceImpl classcalled
+2021-04-21 11:11:47 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Starting OnlineEducationSystemMineApplication using Java 1.8.0_144 on DESKTOP-AAUTO85 with PID 21560 (E:\idigital\FinalIntegratedBackend-online-education-system\target\classes started by Richa in E:\idigital\FinalIntegratedBackend-online-education-system)
+2021-04-21 11:11:47 [restartedMain] DEBUG c.e.d.OnlineEducationSystemMineApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-04-21 11:11:47 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - No active profile set, falling back to default profiles: default
+2021-04-21 11:11:49 [restartedMain] INFO  c.e.d.OnlineEducationSystemMineApplication - Started OnlineEducationSystemMineApplication in 1.807 seconds (JVM running for 1809.541)
