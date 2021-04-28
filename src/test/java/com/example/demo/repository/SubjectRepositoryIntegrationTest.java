@@ -1,4 +1,4 @@
-package com.example.demo.repository;
+/*   package com.example.demo.repository;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -59,4 +59,4 @@ public class SubjectRepositoryIntegrationTest {
 		Subject deleted = entityManager.find(Subject.class, sub.getSubId());
 		assertNull(deleted);
 	}
-}
+}   */
