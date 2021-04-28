@@ -52,7 +52,7 @@ class AttendanceRepositoryIntegrationTest {
 //	    public void whenInvalidId_thenReturnNull() {
 //	    	Attendance fromDb = attendanceRepository.findById((long) -10).orElse(null);
 //	        assertThat(fromDb).isNull();
-	    }
+	    //}
 
 	    
 //	    @Test
