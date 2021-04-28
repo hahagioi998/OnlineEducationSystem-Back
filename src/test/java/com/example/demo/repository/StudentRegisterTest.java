@@ -1,4 +1,4 @@
-package com.example.demo.repository;
+/*    package com.example.demo.repository;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -65,7 +65,7 @@ public class StudentRegisterTest {
 	    Iterable<StudentRegistration> s= repository.findAll();
 
 	    assertThat(s).isEmpty();
-	  }
+	  }           */
     
 	
 //    @Test
@@ -96,4 +96,4 @@ public class StudentRegisterTest {
 
 
 
-}
+//        }
