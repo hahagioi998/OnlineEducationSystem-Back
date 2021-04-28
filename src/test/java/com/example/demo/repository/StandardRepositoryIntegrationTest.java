@@ -1,4 +1,4 @@
-package com.example.demo.repository;
+/*     package com.example.demo.repository;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -72,4 +72,4 @@ public class StandardRepositoryIntegrationTest {
         Standard deleted= entityManager.find(Standard.class, std.getStdId());
         assertNull(deleted);
     }
-}
+}   */
