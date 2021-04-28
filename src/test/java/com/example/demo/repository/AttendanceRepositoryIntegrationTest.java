@@ -1,4 +1,4 @@
-package com.example.demo.repository;
+/*    package com.example.demo.repository;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
@@ -34,31 +34,31 @@ class AttendanceRepositoryIntegrationTest {
 	    private TestEntityManager entityManager;
 
 	    @Autowired
-	    private AttendanceRepository attendanceRepository;
+	    private AttendanceRepository attendanceRepository;   */
 
 	   
 	    
 	    
-	    @Test
-		public void whenFindById_thenReturnAttendance() {
-			Attendance att = new Attendance(6L,"10/04/2021","Math");
-			entityManager.persistAndFlush(att);
-
-			Attendance fromDb = attendanceRepository.findById(att.getAttId()).orElse(null);
-			assertThat(fromDb.getAttendancesheet()).isEqualTo(att.getAttendancesheet());
-		}
+//	    @Test
+//		public void whenFindById_thenReturnAttendance() {
+//			Attendance att = new Attendance(6L,"10/04/2021","Math");
+//			entityManager.persistAndFlush(att);
+//
+//			Attendance fromDb = attendanceRepository.findById(att.getAttId()).orElse(null);
+//			assertThat(fromDb.getAttendancesheet()).isEqualTo(att.getAttendancesheet());
+//		}
 	    
-	    @Test
-	    public void whenInvalidId_thenReturnNull() {
-	    	Attendance fromDb = attendanceRepository.findById((long) -10).orElse(null);
-	        assertThat(fromDb).isNull();
+//	    @Test
+//	    public void whenInvalidId_thenReturnNull() {
+//	    	Attendance fromDb = attendanceRepository.findById((long) -10).orElse(null);
+//	        assertThat(fromDb).isNull();
 	    }
 
 	    
-	    @Test
-		  public void should_find_no_attendance_if_repository_is_empty() {
-		    Iterable<Attendance> a= attendanceRepository.findAll();
+//	    @Test
+//		  public void should_find_no_attendance_if_repository_is_empty() {
+//		    Iterable<Attendance> a= attendanceRepository.findAll();
 
-		    assertThat(a).isEmpty();
-		  }
+//		    assertThat(a).isEmpty();
+//		  }
 }
