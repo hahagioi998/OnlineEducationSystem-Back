@@ -201,6 +201,12 @@ public class StudentController {
 	public List<StudentRegistration> getAllStudentFromStd(@PathVariable Long std) {
 		return srepo.findByStd(std);
 	}
+	
+	@GetMapping("/tt/{name}")
+	public String tt(@PathVariable String name) {
+		
+		return "welcome to" + " " + name;
+	}
 
 }// package com.example.demo.controller;
 //
