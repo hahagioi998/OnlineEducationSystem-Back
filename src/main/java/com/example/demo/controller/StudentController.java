@@ -202,10 +202,10 @@ public class StudentController {
 		return srepo.findByStd(std);
 	}
 	
-	@GetMapping("/tt/{name}")
-	public String tt(@PathVariable String name) {
+	@GetMapping("/tt")
+	public String tt() {
 		
-		return "welcome to" + " " + name;
+		return "welcome to";
 	}
 
 }// package com.example.demo.controller;
